@@ -113,7 +113,7 @@ const ContactSection: React.FC = () => {
               <h3 className="text-xl font-bold mb-6">Connect with me</h3>
               <div className="flex space-x-6 mb-6">
                 <a 
-                  href="https://github.com/ResorcinolWorks" 
+                  href="https://github.com/0xReso"
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="p-3 border border-dark-200 rounded-full hover:border-white/40 transition-all hover:scale-110 group"
