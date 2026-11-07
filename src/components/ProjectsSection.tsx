@@ -18,28 +18,28 @@ const ProjectsSection: React.FC = () => {
       title: "GreenWallet",
       description: "ML-driven carbon point based marketplace",
       techStack: ["Next.js", "Supabase", "TypeScript"],
-      url: "https://github.com/ResorcinolWorks/GreenWallet"
+      url: "https://github.com/0xReso/GreenWallet"
     },
     {
       id: 2,
       title: "HealthAI",
       description: "AI-powered health monitoring and analysis platform",
       techStack: ["Next.js", "Node.js", "PostgreSQL", "Stripe"],
-      url: "https://github.com/ResorcinolWorks/HealthAi"
+      url: "https://github.com/0xReso/HealthAi"
     },
     {
       id: 3,
       title: "BusBooker",
       description: "Online bus ticket booking system",
       techStack: ["React", "Java", "SpringBoot", "Typescript"],
-      url: "https://github.com/ResorcinolWorks/busbooker"
+      url: "https://github.com/0xReso/busbooker"
     },
     {
       id: 4,
       title: "View More on GitHub",
       description: "Check out more of my projects and contributions",
       techStack: [],
-      url: "https://github.com/resorcinolworks"
+      url: "https://github.com/0xReso"
     }
   ];
 
